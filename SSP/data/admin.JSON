@@ -1,0 +1,10 @@
+[
+    {
+        "username":"admin",
+        "password":"admin",
+        "email": "test@gmail.com",
+        "age": "40",
+        "File": "..\/uploads\/admin.jpeg"
+
+    }
+]

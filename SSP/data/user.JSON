@@ -1,0 +1,101 @@
+[
+    {
+        "firstname": "Kazi",
+        "lastname": "Tanvir",
+        "age": "12",
+        "username": "kazi",
+        "gender": "Male",
+        "email": "test@gmail.com",
+        "password": "123456789",
+        "address": "xcvsdfgwsdfsd",
+        "File": "..\/uploads\/Screenshot_1.png"
+    },
+    {
+        "firstname": "test",
+        "lastname": "test",
+        "age": "123456789",
+        "username": "test",
+        "gender": "Male",
+        "email": "r@gmail.com",
+        "password": "123456789",
+        "address": "sdfsdfsd",
+        "File": "..\/uploads\/Screenshot_1.png"
+    },
+    {
+        "firstname": "Tan",
+        "lastname": "tan",
+        "age": "23",
+        "username": "Tan",
+        "gender": "Male",
+        "email": "tan@tan.com",
+        "password": "Tanvir001",
+        "address": "mirds",
+        "File": "..\/uploads\/Screenshot (6).png"
+    },
+    {
+        "firstname": "iusagiud",
+        "lastname": "sagoudfaou",
+        "age": "45",
+        "username": "gdsoiufasoig",
+        "gender": "Female",
+        "email": "oiusfd@cinewo.com",
+        "password": "12345678",
+        "address": "dsaif",
+        "File": "..\/uploads\/Screenshot (3).png"
+    },
+    {
+        "firstname": "kazi",
+        "lastname": "tanvir",
+        "age": "23",
+        "username": "kazi",
+        "gender": "Male",
+        "email": "kazitanvir.ads@gmail.com",
+        "password": "12345678",
+        "address": "mirpur1",
+        "File": "..\/uploads\/Screenshot (6).png"
+    },
+    {
+        "firstname": "kazi",
+        "lastname": "tanvir",
+        "age": "23",
+        "username": "kazi",
+        "gender": "Male",
+        "email": "kazitanvir@gmail.com",
+        "password": "12345678",
+        "address": "kusvdia",
+        "File": "..\/uploads\/Screenshot (3).png"
+    },
+    {
+        "firstname": "kazi",
+        "lastname": "tanvir",
+        "age": "23",
+        "username": "kazi",
+        "gender": "Male",
+        "email": "kazi@kazi.com",
+        "password": "12345678",
+        "address": "diyfsia",
+        "File": "..\/uploads\/Screenshot (6).png"
+    },
+    {
+        "firstname": "kazi",
+        "lastname": "tanvir",
+        "age": "23",
+        "username": "kazi",
+        "gender": "Male",
+        "email": "kazi@kazi.com",
+        "password": "12345678",
+        "address": "kusafd",
+        "File": "..\/uploads\/Screenshot (6).png"
+    },
+    {
+        "firstname": "Test",
+        "lastname": "Test",
+        "age": "23",
+        "username": "test",
+        "gender": "Male",
+        "email": "test@test.com",
+        "password": "testtest",
+        "address": "tets",
+        "File": "..\/uploads\/Screenshot (2).png"
+    }
+]

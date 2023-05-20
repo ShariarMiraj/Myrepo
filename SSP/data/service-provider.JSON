@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Kazi Electronics",
+        "location": "Mirpur-1",
+        "service": "AC Repairs",
+        "phone": "01407029000",
+        "email": "ke@gmail.com",
+        "password": "123456789",
+        "File": "..\/uploads\/Screenshot_1.png"
+    },
+    {
+        "name": "Hazi Motors",
+        "location": "Mirpur-11",
+        "service": "Motor Repairs",
+        "phone": "01407028000",
+        "email": "hm@gmail.com",
+        "password": "123456789",
+        "File": "..\/uploads\/Screenshot_1.png"
+    }
+
+]

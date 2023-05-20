@@ -1,0 +1,15 @@
+[
+    {
+        "firstname": "md",
+        "lastname": "al amin",
+        "age": "40",
+        "username": "amin",
+        "gender": "Male",
+        "email": "test@gmail.com",
+        "password": "123456789",
+        "address": "dsfsdfwefwefwes",
+        "designation": "Accountant",
+        "days": "Thursday,Wednesday,Tuesday,Monday,Sunday,",
+        "File": "..\/uploads\/Screenshot_1.png"
+    }
+]

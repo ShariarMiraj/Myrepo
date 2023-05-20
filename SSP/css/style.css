@@ -1,0 +1,245 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.home-banner{
+    width: 1300px;
+    height: 400px;
+}
+.navbar{
+    background-color: cornflowerblue;
+    padding: 15px 0;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: aliceblue;
+    margin-left: 100px;   
+}
+.navbar a img{
+    width: 100px;
+    margin-right: 500px;
+}
+.nav-menu{
+    position: relative;
+    bottom: 20px;
+    font-size: 20px;
+}
+.home2{
+    top: 0px;
+    left: 325px;
+}
+
+.login{
+    background-color: blue;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: .5s ease;
+}
+.logout{
+    background-color: red;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: .5s ease;
+}
+
+.login:hover{
+    color:blue;
+    padding: 15px 25px;
+    background-color: aliceblue ;
+    transition: .5s ease;
+}
+.logout:hover{
+    color:brown;
+    padding: 15px 25px;
+    background-color: aliceblue ;
+    transition: .5s ease;
+}
+
+
+.home{
+    text-align: center;
+    margin: 30px 0;
+    text-decoration: underline;
+}
+.services-home{
+    width: 100%;
+    margin-left: 75px ;
+    
+    
+}
+.services{
+    width: 33.33%;
+    float: left;
+    margin-bottom:30px;
+    
+}
+.services a img{
+    width: 250px;
+    border-radius: 25px;
+    border: 1px solid cornflowerblue;
+}
+
+.services p{
+    margin-top: 10px;
+    font-size: 16px;
+    margin-left: 20px;
+    font-weight: bold;
+}
+.about-us{
+    width: 100%;
+    
+}
+.info{
+    width: 33.33%;
+    float: left;
+    background-color: cornflowerblue;
+    padding: 20px 0;
+    color: aliceblue;
+    text-align: center;
+    
+}
+.about-us .content{
+    float: left;
+    width: 50%;
+    margin-bottom: 50px;
+}
+
+.about-image img{
+    width: 100%;
+}
+.list ol li{
+    font-size: 18px;
+    margin-left: 30px;
+    line-height: 33px;
+}
+
+.footer{ 
+    width: 100%;    
+}
+
+.rows{
+    width: 33.33%;
+    height: 200px;
+    float: left;
+    background-color: royalblue ;
+    padding: 75px 0;
+}
+.rows ul{
+    /* margin-left: 35px; */
+    text-align: center;
+    list-style: none;
+    color: aliceblue;
+}
+.rows ul li a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.rows ul li{
+    margin: 20px 0;
+}
+.rows h4{
+    text-align: center;
+    margin: 10px 0;
+    color: black;
+    text-transform: uppercase;
+}
+
+.login-page{
+    width: 300px;
+    height: 400px;
+    background-color: cornflowerblue ;
+    margin-left: 500px;
+    border-radius: 20px;
+}
+
+.login-page-container{
+    padding-top: 20px;
+    margin-top: 100px;
+    margin-left: 20px;
+}
+
+.login-page-container table tr{
+    padding: 10px 0;
+}
+
+.login-page-container table tr td{
+    color: aliceblue;
+    font-size: 18px;
+    margin: 10px 0;
+}
+.login-page-container table tr td a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.login-page-container table tr td input{
+    padding: 10px 8px;
+    border-radius: 5px;
+    border: none;
+}
+#login{
+    color: aliceblue;
+    border: none;
+}
+#login:hover{
+    color: cornflowerblue;
+}
+.login-page-container table tr td .error{
+    color: red;
+    font-size: 16px;
+}
+td .error{
+    color: red;
+    font-size: 16px;
+}
+
+.login-page-container h2{
+    margin: 15px 0 10px 0;
+}
+.registration-form{
+    background-color: cornflowerblue ;
+    width: 100%;
+    height: 610px;
+    border-radius: 20px;
+}
+.employee-form{
+    background-color: cornflowerblue ;
+    background-size: cover;
+    height: 800px;
+}
+.registration-form .login-page-container{
+    margin-top: 0;
+    margin-left: 500px;
+}
+
+.registration-form .login-page-container h1{
+    margin: 10px 0;
+}
+
+.reset-btn{
+    background-color: green;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: .5s ease;
+}
+.reset-btn:hover{
+    color:lightgreen;
+    padding: 15px 25px;
+    background-color: aliceblue ;
+    transition: .5s ease;
+}
+
+.table-spacings{
+    margin-left: 200px;
+}
+
+#search{
+    background-color: skyblue;
+}
+.update{
+    background-color: lightgreen;
+}
+.delete{
+    background-color: rgb(255, 104, 104);
+}
